@@ -1,5 +1,5 @@
 # My-First-Repo
 
 Trainer is Jogesh Singh
-<B>
+<b>
 mine is june and july batch
